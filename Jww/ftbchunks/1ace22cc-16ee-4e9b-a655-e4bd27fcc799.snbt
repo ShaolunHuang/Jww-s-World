@@ -1,0 +1,45 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1754268338906L
+	chunks: {
+		"allthemodium:mining": [
+			{ x: 15, z: 2, time: 1753935458068L, force_loaded: 1754250248243L }
+			{ x: 17, z: 3, time: 1753935458068L, force_loaded: 1754250248243L }
+			{ x: 16, z: 3, time: 1753935458068L, force_loaded: 1754250250191L }
+			{ x: 15, z: 3, time: 1753935458068L, force_loaded: 1754250250190L }
+			{ x: 17, z: 2, time: 1753935458068L, force_loaded: 1754250249572L }
+			{ x: 17, z: 1, time: 1753935458068L, force_loaded: 1754250249214L }
+			{ x: 16, z: 2, time: 1754250217842L, force_loaded: 1754250248243L }
+			{ x: 16, z: 1, time: 1753935467417L, force_loaded: 1754250249214L }
+			{ x: 15, z: 1, time: 1753935458068L, force_loaded: 1754250248243L }
+		]
+	}
+	member_data: {
+		7b85e224-6c2c-4b0f-bf3c-c5b022244445: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		8bb24e2b-a6ae-45fe-a62a-be9fdd02f64b: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		df578f2d-851e-49e0-8ee0-9022765c802b: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		36a2c612-05a6-4cd7-84bf-3dfad5190414: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		e7a6f457-3dbc-4f3d-b9bc-db22b7c35f86: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+	}
+}
