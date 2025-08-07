@@ -4,14 +4,8 @@
   "difficultyLocked": false,
   "cheats": true,
   "invited": [
-    "36a2c612-05a6-4cd7-84bf-3dfad5190414",
-    "e7a6f457-3dbc-4f3d-b9bc-db22b7c35f86",
     "7b85e224-6c2c-4b0f-bf3c-c5b022244445"
   ],
   "shareResourcePack": false,
-  "oppedPlayers": [
-    "36a2c612-05a6-4cd7-84bf-3dfad5190414",
-    "e7a6f457-3dbc-4f3d-b9bc-db22b7c35f86",
-    "7b85e224-6c2c-4b0f-bf3c-c5b022244445"
-  ]
+  "oppedPlayers": []
 }
