@@ -1294,5 +1294,11 @@
     },
     "done": true
   },
+  "mekanism:simple_mass_storage": {
+    "criteria": {
+      "basic_bin": "2025-08-08 00:05:01 -0400"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
