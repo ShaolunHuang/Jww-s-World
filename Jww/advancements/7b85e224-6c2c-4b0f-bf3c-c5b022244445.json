@@ -546,27 +546,28 @@
       "minecraft:pillager": "2025-07-20 19:08:48 -0400",
       "minecraft:blaze": "2025-07-22 22:43:19 -0400",
       "minecraft:skeleton": "2025-07-20 02:14:35 -0400",
+      "minecraft:ravager": "2025-07-27 21:06:25 -0400",
+      "minecraft:bogged": "2025-08-09 01:37:52 -0400",
+      "minecraft:vindicator": "2025-07-20 19:16:11 -0400",
+      "minecraft:magma_cube": "2025-07-22 20:21:33 -0400",
+      "minecraft:spider": "2025-07-20 01:12:00 -0400",
+      "minecraft:creeper": "2025-08-04 00:16:09 -0400",
+      "minecraft:slime": "2025-07-27 19:10:44 -0400",
       "minecraft:phantom": "2025-07-27 19:47:25 -0400",
       "minecraft:witch": "2025-07-20 18:35:21 -0400",
       "minecraft:wither_skeleton": "2025-07-30 01:01:14 -0400",
-      "minecraft:ravager": "2025-07-27 21:06:25 -0400",
       "minecraft:husk": "2025-07-31 01:24:43 -0400",
       "minecraft:shulker": "2025-07-27 22:13:35 -0400",
       "minecraft:cave_spider": "2025-07-30 22:32:59 -0400",
       "minecraft:piglin": "2025-07-22 22:54:46 -0400",
-      "minecraft:vindicator": "2025-07-20 19:16:11 -0400",
       "minecraft:enderman": "2025-07-20 02:28:58 -0400",
       "minecraft:silverfish": "2025-07-20 02:02:01 -0400",
       "minecraft:stray": "2025-07-22 20:02:31 -0400",
-      "minecraft:magma_cube": "2025-07-22 20:21:33 -0400",
       "minecraft:endermite": "2025-07-27 22:17:34 -0400",
-      "minecraft:spider": "2025-07-20 01:12:00 -0400",
       "minecraft:vex": "2025-07-27 20:59:54 -0400",
       "minecraft:zombie": "2025-07-20 01:11:41 -0400",
-      "minecraft:creeper": "2025-08-04 00:16:09 -0400",
       "minecraft:drowned": "2025-07-30 23:43:39 -0400",
-      "minecraft:zombie_villager": "2025-07-20 18:49:57 -0400",
-      "minecraft:slime": "2025-07-27 19:10:44 -0400"
+      "minecraft:zombie_villager": "2025-07-20 18:49:57 -0400"
     },
     "done": false
   },
@@ -669,6 +670,7 @@
   "apotheosis:progression/summit": {
     "criteria": {
       "rare_hand": "2025-07-31 01:25:03 -0400",
+      "rare_chest": "2025-08-09 01:46:24 -0400",
       "rare_helm": "2025-07-27 22:34:10 -0400",
       "rare_feet": "2025-07-20 15:58:55 -0400"
     },
@@ -1294,6 +1296,18 @@
   "mekanismtools:alternate_armor": {
     "criteria": {
       "armor": "2025-08-03 23:27:11 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-08-09 01:22:42 -0400"
+    },
+    "done": false
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-08-09 01:40:30 -0400"
     },
     "done": true
   },

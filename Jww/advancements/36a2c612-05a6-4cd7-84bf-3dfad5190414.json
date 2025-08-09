@@ -455,11 +455,13 @@
       "minecraft:skeleton": "2025-07-20 17:32:01 -0400",
       "minecraft:zoglin": "2025-08-06 01:46:15 -0400",
       "minecraft:zombified_piglin": "2025-07-20 16:00:08 -0400",
+      "minecraft:witch": "2025-08-09 00:02:10 -0400",
       "minecraft:wither_skeleton": "2025-07-22 22:56:06 -0400",
       "minecraft:ghast": "2025-07-22 23:06:32 -0400",
       "minecraft:hoglin": "2025-07-20 18:01:50 -0400",
       "minecraft:piglin": "2025-07-20 17:55:00 -0400",
       "minecraft:silverfish": "2025-07-20 19:28:36 -0400",
+      "minecraft:enderman": "2025-08-09 03:07:10 -0400",
       "minecraft:spider": "2025-07-20 01:35:26 -0400",
       "minecraft:piglin_brute": "2025-08-06 01:45:32 -0400",
       "minecraft:zombie": "2025-07-20 16:04:29 -0400",
@@ -1495,15 +1497,69 @@
     },
     "done": true
   },
+  "mekanism:simple_mass_storage": {
+    "criteria": {
+      "basic_bin": "2025-08-07 23:57:31 -0400"
+    },
+    "done": true
+  },
   "ae2:main/storage_bus": {
     "criteria": {
       "part": "2025-08-07 23:59:09 -0400"
     },
     "done": true
   },
-  "mekanism:simple_mass_storage": {
+  "ae2:main/network1": {
     "criteria": {
-      "basic_bin": "2025-08-07 23:57:31 -0400"
+      "cable": "2025-08-08 23:49:23 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_leggings": "2025-08-09 00:00:55 -0400"
+    },
+    "done": false
+  },
+  "tombstone:adventure/fortuitous_militia": {
+    "criteria": {
+      "coded_trigger": "2025-08-09 00:06:15 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_nourishing_food": {
+    "criteria": {
+      "nourishment": "2025-08-09 00:11:28 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:alternate_armor": {
+    "criteria": {
+      "armor": "2025-08-09 00:13:56 -0400"
+    },
+    "done": true
+  },
+  "mekanismtools:loved_by_piglins": {
+    "criteria": {
+      "armor": "2025-08-09 00:13:56 -0400"
+    },
+    "done": true
+  },
+  "apothic_spawners:root": {
+    "criteria": {
+      "spawner": "2025-08-09 00:14:12 -0400"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-08-09 00:30:15 -0400"
+    },
+    "done": true
+  },
+  "mekanismgenerators:burn_the_gas": {
+    "criteria": {
+      "gas_burning_generator": "2025-08-09 01:10:00 -0400"
     },
     "done": true
   },
