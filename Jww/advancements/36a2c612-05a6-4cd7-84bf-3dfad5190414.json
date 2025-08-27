@@ -126,6 +126,7 @@
       "minecraft:river": "2025-07-19 23:39:41 -0400",
       "minecraft:lukewarm_ocean": "2025-07-27 14:47:58 -0400",
       "minecraft:stony_shore": "2025-07-20 00:19:08 -0400",
+      "minecraft:lush_caves": "2025-08-09 22:43:39 -0400",
       "minecraft:dripstone_caves": "2025-07-27 17:42:27 -0400",
       "minecraft:old_growth_birch_forest": "2025-07-27 14:51:28 -0400",
       "minecraft:deep_dark": "2025-07-27 14:35:11 -0400",
@@ -237,6 +238,7 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:redwood_thicket": "2025-08-10 23:32:24 -0400",
       "biomeswevegone:ironwood_gour": "2025-07-20 00:16:36 -0400",
       "biomeswevegone:crag_gardens": "2025-07-27 15:33:44 -0400",
       "biomeswevegone:firecracker_chaparral": "2025-07-20 00:09:00 -0400",
@@ -454,18 +456,25 @@
       "minecraft:blaze": "2025-08-03 17:22:03 -0400",
       "minecraft:skeleton": "2025-07-20 17:32:01 -0400",
       "minecraft:zoglin": "2025-08-06 01:46:15 -0400",
+      "minecraft:phantom": "2025-08-14 00:16:34 -0400",
       "minecraft:zombified_piglin": "2025-07-20 16:00:08 -0400",
       "minecraft:witch": "2025-08-09 00:02:10 -0400",
       "minecraft:wither_skeleton": "2025-07-22 22:56:06 -0400",
       "minecraft:ghast": "2025-07-22 23:06:32 -0400",
+      "minecraft:ender_dragon": "2025-08-12 00:44:03 -0400",
       "minecraft:hoglin": "2025-07-20 18:01:50 -0400",
       "minecraft:piglin": "2025-07-20 17:55:00 -0400",
+      "minecraft:breeze": "2025-08-10 23:58:04 -0400",
+      "minecraft:vindicator": "2025-08-11 00:38:21 -0400",
       "minecraft:silverfish": "2025-07-20 19:28:36 -0400",
       "minecraft:enderman": "2025-08-09 03:07:10 -0400",
+      "minecraft:stray": "2025-08-10 23:59:52 -0400",
       "minecraft:spider": "2025-07-20 01:35:26 -0400",
       "minecraft:piglin_brute": "2025-08-06 01:45:32 -0400",
       "minecraft:zombie": "2025-07-20 16:04:29 -0400",
+      "minecraft:creeper": "2025-08-09 23:52:06 -0400",
       "minecraft:drowned": "2025-07-20 01:53:51 -0400",
+      "minecraft:wither": "2025-08-11 00:28:48 -0400",
       "minecraft:zombie_villager": "2025-07-20 01:56:37 -0400"
     },
     "done": false
@@ -1022,6 +1031,7 @@
   },
   "regions_unexplored:got_wood": {
     "criteria": {
+      "brimwood_log": "2025-08-09 21:56:40 -0400",
       "yellow_bioshroom_stem": "2025-07-22 22:54:46 -0400"
     },
     "done": false
@@ -1118,6 +1128,7 @@
   },
   "repurposed_structures:pyramids": {
     "criteria": {
+      "in_pyramid_nether": "2025-08-09 22:25:49 -0400",
       "in_pyramid_flower_forest": "2025-07-27 15:26:11 -0400"
     },
     "done": false
@@ -1269,20 +1280,24 @@
   "apotheosis:progression/pinnacle": {
     "criteria": {
       "epic_legs": "2025-07-27 22:39:21 -0400",
+      "epic_feet": "2025-08-11 00:10:36 -0400",
       "epic_hand": "2025-07-27 22:38:26 -0400",
       "epic_helm": "2025-08-03 16:23:32 -0400",
+      "kill_ender_dragon": "2025-08-12 00:44:03 -0400",
       "epic_chest": "2025-07-27 21:27:01 -0400"
     },
-    "done": false
+    "done": true
   },
   "apotheosis:progression/summit": {
     "criteria": {
+      "kill_wither": "2025-08-11 00:28:48 -0400",
       "rare_chest": "2025-07-27 21:27:01 -0400",
       "rare_legs": "2025-07-27 22:39:21 -0400",
       "rare_hand": "2025-07-27 22:38:26 -0400",
-      "rare_helm": "2025-08-03 16:23:32 -0400"
+      "rare_helm": "2025-08-03 16:23:32 -0400",
+      "rare_feet": "2025-08-11 00:10:36 -0400"
     },
-    "done": false
+    "done": true
   },
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
@@ -1560,6 +1575,251 @@
   "mekanismgenerators:burn_the_gas": {
     "criteria": {
       "gas_burning_generator": "2025-08-09 01:10:00 -0400"
+    },
+    "done": true
+  },
+  "integratedscripting:root": {
+    "criteria": {
+      "criteria_0": "2025-08-09 17:05:46 -0400"
+    },
+    "done": true
+  },
+  "integratedcrafting:root": {
+    "criteria": {
+      "criteria_0": "2025-08-09 17:05:46 -0400"
+    },
+    "done": true
+  },
+  "integratedtunnels:root": {
+    "criteria": {
+      "criteria_0": "2025-08-09 17:05:46 -0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:forge_hammer": {
+    "criteria": {
+      "checkInv": "2025-08-09 17:36:13 -0400"
+    },
+    "done": true
+  },
+  "modern_industrialization:bronze_compressor": {
+    "criteria": {
+      "checkInv": "2025-08-09 18:57:17 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/presses": {
+    "criteria": {
+      "silicon": "2025-08-09 19:43:06 -0400",
+      "logic": "2025-08-09 19:42:39 -0400"
+    },
+    "done": false
+  },
+  "minecraft:oritech/overenchanted": {
+    "criteria": {
+      "got_overenchanted": "2025-08-09 20:03:56 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/charger": {
+    "criteria": {
+      "certus": "2025-08-09 20:11:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2025-08-09 20:13:34 -0400"
+    },
+    "done": true
+  },
+  "deeperdarker:main/enter_otherside": {
+    "criteria": {
+      "otherside": "2025-08-09 21:15:53 -0400"
+    },
+    "done": true
+  },
+  "deeperdarker:main/explore_otherside": {
+    "criteria": {
+      "overcast_columns": "2025-08-09 21:15:53 -0400",
+      "deeplands": "2025-08-09 21:16:00 -0400"
+    },
+    "done": false
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-08-14 00:16:34 -0400",
+      "warden": "2025-08-09 21:17:57 -0400",
+      "sculk_snapper": "2025-08-09 21:16:08 -0400"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-08-09 21:17:57 -0400"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_warden": {
+    "criteria": {
+      "warden": "2025-08-09 21:17:57 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-08-09 22:00:58 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:kill_all_bosses": {
+    "criteria": {
+      "cataclysm:netherite_monstrosity": "2025-08-09 22:33:52 -0400"
+    },
+    "done": false
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-08-09 22:33:52 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-08-09 22:41:31 -0400"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-08-09 23:49:16 -0400"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-08-10 00:26:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-08-10 00:42:28 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-08-10 01:00:11 -0400"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-08-10 01:05:11 -0400"
+    },
+    "done": true
+  },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2025-08-10 01:12:29 -0400"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-08-10 01:16:10 -0400"
+    },
+    "done": false
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-08-10 23:46:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-08-10 23:54:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-08-11 00:00:29 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/enter_undergarden": {
+    "criteria": {
+      "enter_undergarden": "2025-08-11 00:11:52 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/all_undergarden_biomes": {
+    "criteria": {
+      "undergarden:ancient_sea": "2025-08-11 00:12:54 -0400",
+      "undergarden:wigglewood_forest": "2025-08-11 00:11:53 -0400"
+    },
+    "done": false
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-08-11 00:28:48 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_voodoo_poppet": {
+    "criteria": {
+      "has_voodoo_poppet": "2025-08-11 00:28:48 -0400"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_voodoo_poppet": {
+    "criteria": {
+      "has_enchanted_voodoo_poppet": "2025-08-11 00:28:48 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "nether_wart": "2025-08-11 00:39:37 -0400"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-08-11 00:39:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-08-12 00:44:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2025-08-13 23:47:49 -0400"
+    },
+    "done": true
+  },
+  "mekanism:yellow_cake": {
+    "criteria": {
+      "yellow_cake_uranium": "2025-08-14 00:05:25 -0400"
+    },
+    "done": true
+  },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2025-08-14 00:12:32 -0400"
+    },
+    "done": true
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-08-14 00:35:45 -0400"
     },
     "done": true
   },

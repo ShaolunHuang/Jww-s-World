@@ -116,9 +116,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-08-09 22:39:52 -0400",
       "minecraft:forest": "2025-07-20 01:07:18 -0400",
       "minecraft:deep_ocean": "2025-07-27 14:48:22 -0400",
       "minecraft:lush_caves": "2025-07-27 14:49:43 -0400",
+      "minecraft:deep_cold_ocean": "2025-08-09 22:39:58 -0400",
       "minecraft:jungle": "2025-07-20 01:36:26 -0400",
       "minecraft:ocean": "2025-07-27 14:48:48 -0400",
       "minecraft:cherry_grove": "2025-07-27 15:12:20 -0400",
@@ -288,13 +290,16 @@
       "biomeswevegone:araucaria_savanna": "2025-07-27 15:09:39 -0400",
       "biomeswevegone:ironwood_gour": "2025-07-20 01:16:16 -0400",
       "biomeswevegone:orchard": "2025-07-20 14:56:52 -0400",
+      "biomeswevegone:crag_gardens": "2025-08-10 23:37:36 -0400",
       "biomeswevegone:firecracker_chaparral": "2025-07-20 01:28:42 -0400",
       "biomeswevegone:amaranth_grassland": "2025-07-20 01:27:16 -0400",
+      "biomeswevegone:weeping_witch_forest": "2025-07-20 14:55:51 -0400",
+      "biomeswevegone:lush_stacks": "2025-07-20 00:16:16 -0400",
+      "biomeswevegone:coconino_meadow": "2025-08-09 22:36:44 -0400",
+      "biomeswevegone:maple_taiga": "2025-08-09 22:38:36 -0400",
       "biomeswevegone:cypress_swamplands": "2025-07-20 14:03:47 -0400",
       "biomeswevegone:baobab_savanna": "2025-07-19 23:39:28 -0400",
-      "biomeswevegone:weeping_witch_forest": "2025-07-20 14:55:51 -0400",
       "biomeswevegone:enchanted_tangle": "2025-07-20 01:35:20 -0400",
-      "biomeswevegone:lush_stacks": "2025-07-20 00:16:16 -0400",
       "biomeswevegone:rainbow_beach": "2025-07-20 20:32:02 -0400"
     },
     "done": false
@@ -391,6 +396,7 @@
       "minecraft:blaze": "2025-07-20 17:58:56 -0400",
       "minecraft:skeleton": "2025-07-20 14:18:21 -0400",
       "minecraft:ravager": "2025-07-20 19:36:39 -0400",
+      "minecraft:bogged": "2025-08-09 21:03:09 -0400",
       "minecraft:ghast": "2025-07-20 17:51:46 -0400",
       "minecraft:hoglin": "2025-08-07 23:38:13 -0400",
       "minecraft:vindicator": "2025-07-27 20:25:20 -0400",
@@ -460,27 +466,31 @@
   "regions_unexplored:regions_explored": {
     "criteria": {
       "mauve_hills": "2025-07-27 15:09:36 -0400",
+      "shrubland": "2025-07-27 14:23:53 -0400",
+      "redstone_abyss": "2025-07-20 15:56:47 -0400",
+      "glistering_meadow": "2025-07-20 17:37:31 -0400",
+      "pine_taiga": "2025-07-20 13:02:35 -0400",
+      "blackstone_basin": "2025-07-22 22:33:16 -0400",
+      "autumnal_maple_forest": "2025-08-09 22:36:22 -0400",
+      "towering_cliffs": "2025-08-09 22:36:13 -0400",
+      "infernal_holt": "2025-07-20 20:28:49 -0400",
+      "bamboo_forest": "2025-07-27 20:28:52 -0400",
       "willow_forest": "2025-07-20 01:41:45 -0400",
       "temperate_grove": "2025-07-20 13:09:23 -0400",
+      "cold_river": "2025-08-09 22:36:23 -0400",
       "redstone_caves": "2025-07-30 01:36:09 -0400",
-      "shrubland": "2025-07-27 14:23:53 -0400",
       "pine_slopes": "2025-07-20 14:24:29 -0400",
       "grassy_beach": "2025-07-20 00:12:25 -0400",
       "scorching_caves": "2025-07-27 15:59:17 -0400",
-      "redstone_abyss": "2025-07-20 15:56:47 -0400",
-      "glistering_meadow": "2025-07-20 17:37:31 -0400",
       "grassland": "2025-07-20 01:07:31 -0400",
       "prairie": "2025-07-20 00:11:27 -0400",
       "rocky_meadow": "2025-07-20 13:10:44 -0400",
       "blackwood_taiga": "2025-07-20 14:10:33 -0400",
       "mycotoxic_undergrowth": "2025-07-20 15:58:13 -0400",
-      "pine_taiga": "2025-07-20 13:02:35 -0400",
-      "blackstone_basin": "2025-07-22 22:33:16 -0400",
+      "gravel_beach": "2025-08-09 22:39:50 -0400",
       "highland_fields": "2025-07-27 14:23:50 -0400",
       "redwoods": "2025-07-27 14:24:31 -0400",
       "maple_forest": "2025-07-20 14:12:01 -0400",
-      "infernal_holt": "2025-07-20 20:28:49 -0400",
-      "bamboo_forest": "2025-07-27 20:28:52 -0400",
       "magnolia_highlands": "2025-07-20 13:10:43 -0400",
       "lupine_plains": "2025-07-30 01:29:34 -0400"
     },
@@ -491,6 +501,7 @@
       "mauve_hills": "2025-07-27 15:09:36 -0400",
       "willow_forest": "2025-07-20 01:41:45 -0400",
       "temperate_grove": "2025-07-20 13:09:23 -0400",
+      "cold_river": "2025-08-09 22:36:23 -0400",
       "shrubland": "2025-07-27 14:23:53 -0400",
       "pine_slopes": "2025-07-20 14:24:29 -0400",
       "grassy_beach": "2025-07-20 00:12:25 -0400",
@@ -499,9 +510,12 @@
       "rocky_meadow": "2025-07-20 13:10:44 -0400",
       "blackwood_taiga": "2025-07-20 14:10:33 -0400",
       "pine_taiga": "2025-07-20 13:02:35 -0400",
+      "gravel_beach": "2025-08-09 22:39:50 -0400",
       "highland_fields": "2025-07-27 14:23:50 -0400",
       "redwoods": "2025-07-27 14:24:31 -0400",
       "maple_forest": "2025-07-20 14:12:01 -0400",
+      "autumnal_maple_forest": "2025-08-09 22:36:22 -0400",
+      "towering_cliffs": "2025-08-09 22:36:13 -0400",
       "bamboo_forest": "2025-07-27 20:28:52 -0400",
       "magnolia_highlands": "2025-07-20 13:10:43 -0400",
       "lupine_plains": "2025-07-30 01:29:34 -0400"
@@ -1054,7 +1068,8 @@
   },
   "repurposed_structures:ruins": {
     "criteria": {
-      "in_ruins_nether": "2025-07-20 17:47:45 -0400"
+      "in_ruins_nether": "2025-07-20 17:47:45 -0400",
+      "in_ruins_land_warm": "2025-08-09 22:36:55 -0400"
     },
     "done": false
   },
@@ -1299,7 +1314,8 @@
       "shattered": "2025-07-27 19:38:33 -0400",
       "phantom": "2025-07-27 15:08:23 -0400",
       "sculk_centipede": "2025-07-27 19:37:07 -0400",
-      "warden": "2025-07-27 16:07:22 -0400"
+      "warden": "2025-07-27 16:07:22 -0400",
+      "sculk_snapper": "2025-08-09 21:16:08 -0400"
     },
     "done": false
   },
@@ -1706,7 +1722,10 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "hollow_oak_sapling": "2025-08-03 00:19:33 -0400"
+      "dark_log": "2025-08-14 00:37:46 -0400",
+      "darkwood_sapling": "2025-08-14 00:32:57 -0400",
+      "hollow_oak_sapling": "2025-08-03 00:19:33 -0400",
+      "dark_wood": "2025-08-14 00:33:01 -0400"
     },
     "done": false
   },
@@ -1725,9 +1744,10 @@
   },
   "twilightforest:progress_trophy_pedestal": {
     "criteria": {
-      "kill_lich": "2025-08-03 00:24:27 -0400"
+      "kill_lich": "2025-08-03 00:24:27 -0400",
+      "trophy_pedestal": "2025-08-14 00:34:50 -0400"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
@@ -1750,9 +1770,10 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
-      "stroganoff": "2025-08-03 00:44:08 -0400"
+      "stroganoff": "2025-08-03 00:44:08 -0400",
+      "was_in_fight": "2025-08-14 00:28:51 -0400"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:mazebreaker": {
     "criteria": {
@@ -1810,13 +1831,249 @@
   },
   "cataclysm:kill_all_bosses": {
     "criteria": {
-      "cataclysm:ender_guardian": "2025-08-09 01:10:41 -0400"
+      "cataclysm:ender_guardian": "2025-08-09 01:10:41 -0400",
+      "cataclysm:the_harbinger": "2025-08-10 23:52:14 -0400",
+      "cataclysm:the_leviathan": "2025-08-09 22:49:06 -0400"
     },
     "done": false
   },
   "cataclysm:kill_ender_guardian": {
     "criteria": {
       "enderguardian": "2025-08-09 01:10:41 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-08-09 22:25:24 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-08-09 22:40:32 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:kill_leviathan": {
+    "criteria": {
+      "ignis": "2025-08-09 22:49:06 -0400"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-08-09 23:08:08 -0400"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-08-09 23:11:04 -0400"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-08-09 23:12:47 -0400"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2025-08-09 23:14:40 -0400"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2025-08-09 23:14:47 -0400"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-08-10 00:00:34 -0400",
+      "1": "2025-08-09 23:15:08 -0400"
+    },
+    "done": true
+  },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2025-08-09 23:17:16 -0400"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-08-09 23:21:31 -0400"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-08-09 23:43:39 -0400"
+    },
+    "done": true
+  },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2025-08-09 23:49:48 -0400"
+    },
+    "done": true
+  },
+  "create:rose_quartz": {
+    "criteria": {
+      "0": "2025-08-09 23:52:43 -0400"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-08-09 23:53:40 -0400"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2025-08-09 23:59:48 -0400"
+    },
+    "done": true
+  },
+  "create:belt": {
+    "criteria": {
+      "0": "2025-08-10 00:06:54 -0400"
+    },
+    "done": true
+  },
+  "create:chute": {
+    "criteria": {
+      "0": "2025-08-10 00:27:26 -0400"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-08-10 00:30:07 -0400"
+    },
+    "done": true
+  },
+  "create:speed_controller": {
+    "criteria": {
+      "0": "2025-08-10 00:31:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:end/respawn_dragon": {
+    "criteria": {
+      "summoned_dragon": "2025-08-10 00:58:17 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/all_undergarden_biomes": {
+    "criteria": {
+      "undergarden:ancient_sea": "2025-08-10 01:37:15 -0400",
+      "undergarden:forgotten_field": "2025-08-10 01:37:56 -0400",
+      "undergarden:wigglewood_forest": "2025-08-10 01:36:22 -0400"
+    },
+    "done": false
+  },
+  "undergarden:undergarden/enter_undergarden": {
+    "criteria": {
+      "enter_undergarden": "2025-08-10 01:36:22 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/kill_scintling": {
+    "criteria": {
+      "kill_scintling": "2025-08-10 01:37:03 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/contract_utheric_infection": {
+    "criteria": {
+      "has_contracted_utheric_infection": "2025-08-10 01:39:17 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/kill_all_rotspawn": {
+    "criteria": {
+      "kill_rotwalker": "2025-08-10 01:39:17 -0400"
+    },
+    "done": false
+  },
+  "ae2:main/p2p": {
+    "criteria": {
+      "certus": "2025-08-10 01:42:08 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "nether_wart": "2025-08-10 23:25:38 -0400"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "nether_wart": "2025-08-10 23:25:38 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-08-10 23:46:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2025-08-10 23:50:27 -0400"
+    },
+    "done": true
+  },
+  "cataclysm:kill_harbinger": {
+    "criteria": {
+      "theharbinger": "2025-08-10 23:52:14 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/under_lock_and_key": {
+    "criteria": {
+      "under_lock_and_key": "2025-08-10 23:56:37 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2025-08-13 23:52:47 -0400"
+    },
+    "done": true
+  },
+  "constructionstick:iron_stick": {
+    "criteria": {
+      "iron_stick": "2025-08-14 00:11:49 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:progress_merge": {
+    "criteria": {
+      "hydra": "2025-08-14 00:28:51 -0400",
+      "ur_ghast": "2025-08-14 00:38:47 -0400"
+    },
+    "done": false
+  },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "all_knights": "2025-08-14 00:36:35 -0400",
+      "previous_progression": "2025-08-14 00:34:50 -0400"
+    },
+    "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "previous_progression": "2025-08-14 00:36:35 -0400",
+      "was_in_fight": "2025-08-14 00:38:47 -0400"
     },
     "done": true
   },

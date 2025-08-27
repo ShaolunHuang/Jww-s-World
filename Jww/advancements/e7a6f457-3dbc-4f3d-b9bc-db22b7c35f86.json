@@ -124,6 +124,7 @@
       "minecraft:snowy_taiga": "2025-07-20 15:10:01 -0400",
       "minecraft:frozen_river": "2025-07-20 15:01:44 -0400",
       "minecraft:jungle": "2025-07-20 00:10:29 -0400",
+      "minecraft:ocean": "2025-08-10 00:34:32 -0400",
       "minecraft:grove": "2025-07-20 14:17:28 -0400",
       "minecraft:old_growth_spruce_taiga": "2025-07-20 15:08:02 -0400",
       "minecraft:savanna": "2025-07-19 23:38:33 -0400",
@@ -663,6 +664,7 @@
       "minecraft:cave_spider": "2025-07-20 14:25:32 -0400",
       "minecraft:skeleton": "2025-07-20 14:24:20 -0400",
       "minecraft:guardian": "2025-08-03 22:33:01 -0400",
+      "minecraft:phantom": "2025-08-12 00:48:28 -0400",
       "minecraft:zombified_piglin": "2025-08-04 00:24:28 -0400",
       "minecraft:stray": "2025-07-20 14:21:17 -0400",
       "minecraft:silverfish": "2025-07-22 20:09:46 -0400",
@@ -1122,6 +1124,7 @@
     "criteria": {
       "rare_chest": "2025-07-29 22:57:34 -0400",
       "rare_hand": "2025-07-29 22:52:17 -0400",
+      "rare_legs": "2025-08-14 00:39:53 -0400",
       "rare_helm": "2025-07-29 23:10:34 -0400"
     },
     "done": false
@@ -1299,6 +1302,124 @@
       "basic_bin": "2025-08-08 00:05:01 -0400"
     },
     "done": true
+  },
+  "ae2:main/controller": {
+    "criteria": {
+      "certus": "2025-08-09 23:06:09 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/storage_bus": {
+    "criteria": {
+      "part": "2025-08-09 23:07:22 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/ioport": {
+    "criteria": {
+      "certus": "2025-08-09 23:57:10 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/glass_cable": {
+    "criteria": {
+      "certus": "2025-08-10 00:40:33 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/qnb": {
+    "criteria": {
+      "certus": "2025-08-10 00:52:50 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/p2p": {
+    "criteria": {
+      "certus": "2025-08-10 00:56:01 -0400"
+    },
+    "done": true
+  },
+  "ae2:main/network1": {
+    "criteria": {
+      "cable": "2025-08-10 01:25:26 -0400"
+    },
+    "done": true
+  },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_cherry": "2025-08-10 23:41:51 -0400"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-08-12 00:48:28 -0400"
+    },
+    "done": true
+  },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-08-12 00:48:28 -0400"
+    },
+    "done": false
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-08-12 00:52:32 -0400"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-08-12 00:52:41 -0400"
+    },
+    "done": true
+  },
+  "create:precision_mechanism": {
+    "criteria": {
+      "0": "2025-08-12 00:52:45 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/mine_ore": {
+    "criteria": {
+      "has_regalium_crystal": "2025-08-12 00:52:50 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/all_undergarden_biomes": {
+    "criteria": {
+      "undergarden:ancient_sea": "2025-08-12 01:10:51 -0400",
+      "undergarden:forgotten_field": "2025-08-12 01:10:40 -0400",
+      "undergarden:wigglewood_forest": "2025-08-12 01:09:48 -0400"
+    },
+    "done": false
+  },
+  "undergarden:undergarden/enter_undergarden": {
+    "criteria": {
+      "enter_undergarden": "2025-08-12 01:09:48 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/kill_all_rotspawn": {
+    "criteria": {
+      "kill_rotwalker": "2025-08-12 01:11:18 -0400",
+      "kill_rotbelcher": "2025-08-12 01:11:08 -0400"
+    },
+    "done": false
+  },
+  "apothic_enchanting:enchanter": {
+    "criteria": {
+      "enchanting_table": "2025-08-14 00:39:09 -0400"
+    },
+    "done": true
+  },
+  "apotheosis:progression/pinnacle": {
+    "criteria": {
+      "epic_legs": "2025-08-14 00:39:53 -0400",
+      "epic_hand": "2025-08-14 00:39:50 -0400"
+    },
+    "done": false
   },
   "DataVersion": 3955
 }
